@@ -11,7 +11,7 @@ setup(
     license="BSD",
     packages=["django_pypal"],
     zip_safe=False,
-    install_requires=['django'],
+    install_requires=['django', 'pypal'],
     include_package_data=True,
     classifiers=[
         "Programming Language :: Python",

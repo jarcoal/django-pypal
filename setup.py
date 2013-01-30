@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="django-pypal",
-    version="0.0.1",
+    version="0.1.0",
     description="Django app for PyPal",
     keywords="django, pypal, paypal",
     author="Jared Morse",
